@@ -40,7 +40,7 @@ const Contact = () => {
     <BsWhatsapp className="contact_option_icon"/>
     <h4>WhatsApp</h4>
     <h5>+21628639221</h5>
-    <a href="https://api.whatsapp.com/send?phone+21628639221" target='_blank'>Send a message</a>
+    <a href="https://api.whatsapp.com/send?phone=+21628639221" target='_blank'>Send a message</a>
     </aticle>
     </div>
     <form ref={form} onSubmit={sendEmail}>
