@@ -13,10 +13,12 @@ const Testimonials = () => {
     </div>
     <h5 className="supervisor_name">Rihab Dridi</h5>
     <small className="supervisor_job">Instructor at GO MY CODE</small>
-    <small className="supervisor_review">As Amal's supervisor during the coding bootcamp she has attended, I can say that I got to know Amal personally.
-    She is driven and passionate about what she does. She has a love of learning and a natural curiosity. Besides She has excellent communication skills which makes her a great teammate to work with.
-    By the end of the bootcamp she was able to demonstrate a large set of skills that are indispensable for any web developer.
-    </small>
+    <br></br>
+    <a className="supervisor_email">rihab.dridi.js@gmail.com</a>
+    <small className="supervisor_review">I had the pleasure of supervising Amal Ben Henia for five months of her Journey to learn Full stack JS web development at GoMyCode. I was impressed by her self-learning skills and her problem-solving mindset. 
+    Amal is not only interested in different fields like astrophysics and web development but she was also capable of managing her time learning the MERN stack and training with the royal observatory of Belgium at the same time with magnificent results in both. 
+    Finally I'd like to mention what a respectful and polite person to work with she is and I'm proud to have had her as a student.
+   </small>
     </article>
     </div>
     </section>

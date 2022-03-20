@@ -5,12 +5,12 @@
 
 } */
 .portfolio_container {
-    /* display: grid;
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap:2.5rem; */
+    gap:2.5rem;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    /* align-items: center;
+    justify-content: center; */
     
     
    

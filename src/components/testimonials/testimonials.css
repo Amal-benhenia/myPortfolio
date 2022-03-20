@@ -30,8 +30,13 @@
 .supervisor_job {
     color: var(--color-light);
     font-weight: 100;
-    font-size:10px;
+    font-size:11}px;
 
+}
+.supervisor_email {
+    color: var(--color-light);
+    font-weight: 100;
+    font-size:11px; 
 }
 @media screen and (max-width: 600px) {
     .container .testimonials_container {
